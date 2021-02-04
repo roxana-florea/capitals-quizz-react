@@ -3,5 +3,5 @@
 
 ![React](https://aleen42.github.io/badges/src/react.svg)
 
+https://quizzical-shannon-cbccc6.netlify.app
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/128px-Netlify_logo.svg.png)
